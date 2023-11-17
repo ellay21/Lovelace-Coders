@@ -1,3 +1,7 @@
+#include <iostream>
+
+using namespace std;
+
 int main() {
     string employeeName;
     int weeklyWorkingHours;
@@ -27,3 +31,5 @@ int main() {
 
     return 0;
 }
+
+
