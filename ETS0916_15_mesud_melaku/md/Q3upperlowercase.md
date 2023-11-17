@@ -1,8 +1,7 @@
 problem analysis
-
 input:letter
 
-output:upper and lower 
+output: upper and lower 
 
 procedure :
 
