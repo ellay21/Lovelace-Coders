@@ -12,9 +12,9 @@ base salary,Employee Name,Gross Salary,Net Salary,Bonus Payment
 --> prompt a message that instruct the user ton insert the value of Employee Name,weekly working hours,bonus rate per hour,base salary.
 
 
---> calculate the total Weekly Salary using the formula 
+    -calculate the total Weekly Salary using the formula 
 
-totalWeeklySalary = (weeklyWorkingHours * baseSalary) + (bonusRatePerHour * weeklyWorkingHours)
+     totalWeeklySalary = (weeklyWorkingHours * baseSalary) + (bonusRatePerHour * weeklyWorkingHours)
 
   - calculate the Bonus Payment 
     bonusPayment = bonusRatePerHour * weeklyWorkingHours
@@ -28,7 +28,7 @@ totalWeeklySalary = (weeklyWorkingHours * baseSalary) + (bonusRatePerHour * week
    - calculate the Tax Deduction
      taxDeduction = grossSalary * 0.15
 
-    - calculate the Net Salary
+   - calculate the Net Salary
      netSalary = grossSalary - (pensionDeduction + taxDeduction)
 
 --> displaying Employee Name,Gross Salary,Net Salary,Bonus Payment.
