@@ -1,3 +1,6 @@
+flowchart
+![image](https://github.com/ellay21/Lovelace-Coders/assets/149295529/e304371d-b0cc-4890-bb0a-a78c675b274a)
+
 problem analysis
 
 input:letter
