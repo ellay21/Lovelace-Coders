@@ -1,3 +1,7 @@
+Flowchart
+![image](https://github.com/ellay21/Lovelace-Coders/assets/149295529/26db8a09-9ce0-429c-9dda-a65699ee2f37)
+
+
 problem analysis
 
 input(s): the capacity of the fuel tank in gallons(capacity) and the miles per gallon that the automobile can be driven(milesPerGallons).
