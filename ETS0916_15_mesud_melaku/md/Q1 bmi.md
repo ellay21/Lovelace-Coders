@@ -1,3 +1,11 @@
+Flow chart
+
+![image](https://github.com/ellay21/Lovelace-Coders/assets/149295529/2059a7b4-df50-49ad-8170-bbde4285ea2c)
+
+
+
+
+
 problem analysis
 
 input(s): the height and weight of the user in meter and kg respectively.
