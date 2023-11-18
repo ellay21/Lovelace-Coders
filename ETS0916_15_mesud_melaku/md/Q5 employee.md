@@ -1,3 +1,8 @@
+flowchart
+
+![image](https://github.com/ellay21/Lovelace-Coders/assets/149295529/c13fb321-348e-4ad7-940c-2d02696490cc)
+
+
 problem analysis
 
 input(s):Employee Name,weekly working hours,bonus rate per hour,base salary.
