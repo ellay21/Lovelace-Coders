@@ -1,3 +1,7 @@
+flow chart
+
+![image](https://github.com/ellay21/Lovelace-Coders/assets/149295529/26958226-9766-4def-afe6-f3b7f8cb1819)
+
 problem analysis
 
 input:transmission rate,file size in bytes
